@@ -1,0 +1,7 @@
+{
+  "name": "modulApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
